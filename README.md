@@ -1,5 +1,7 @@
 # RayCasting Engine
 
+<img width="1621" height="813" alt="image" src="https://github.com/user-attachments/assets/c1984991-e842-4892-878d-2158a83b3454" />
+
 A high-performance, pixel-perfect 2D/3D Raycasting engine built with TypeScript and HTML5 Canvas. Inspired by classic 90s shooters like *Doom* and *Wolfenstein 3D*, this project implements a custom software renderer from scratch.
 
 ![Raycasting Demo](raycasting-video/public/enemy.png)
